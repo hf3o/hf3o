@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**hf3o/hf3o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Michał, a physicist from Zielona Góra, Poland. My main interests include:
+- **Ham Radio (QRP CW)** – I enjoy low-power communication using Morse code.
+- **Music Production** – I create electronic music using the Polyend Tracker and synthesizers.
+- **Linux & Programming** – I use Arch Linux and enjoy customizing my workflow with Vim.
 
-Here are some ideas to get you started:
+## Projects
+- 🤖 Turing Machine Research – Studying theoretical and practical aspects of Turing machines.
+- 💻 **Customization & Automation** – Tweaking Linux and Vim configurations for an optimized workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Operating System**: Arch Linux (Minimal setup)
+- **Editor**: Vim (`.vimrc` optimized for efficiency)
+- **Programming Languages**: Fortran 95, Bash scripting
+
+## Get in Touch
+Feel free to reach out if you share similar interests! 🚀

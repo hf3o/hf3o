@@ -11,7 +11,7 @@ I'm Michał, a physicist from Zielona Góra, Poland. My main interests include:
 - 💻 **Customization & Automation** – Tweaking Linux and Vim configurations for an optimized workflow.
 
 ## Tech Stack
-- **Operating System**: macOS 15 and Arch Linux (Minimal setup)
+- **Operating System**: macOS 15 (on Mac Mini M4 24/256 )and Arch Linux (minimal setup on Lenovo Laptop)
 - **Editor**: Vim (`.vimrc` optimized for efficiency), MacVim
 - **Programming Languages**: Fortran95, Python, Bash scripting
 
